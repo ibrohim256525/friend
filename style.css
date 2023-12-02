@@ -1,0 +1,34 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section .a{
+    color: #DC780B;
+text-align: center;
+font-size: 16px;
+}
+section .b{
+    color: #150C01;
+font-size: 31.25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+.all div{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.all .Food{
+    padding: 0 200px 0;
+}
